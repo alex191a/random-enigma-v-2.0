@@ -1,0 +1,7 @@
+C:\Users\Alexander Olsen\Desktop\repo\random_enigmav2.0\incrypter\incrypter\bin\Debug\incrypter.exe.config
+C:\Users\Alexander Olsen\Desktop\repo\random_enigmav2.0\incrypter\incrypter\bin\Debug\incrypter.exe
+C:\Users\Alexander Olsen\Desktop\repo\random_enigmav2.0\incrypter\incrypter\bin\Debug\incrypter.pdb
+C:\Users\Alexander Olsen\Desktop\repo\random_enigmav2.0\incrypter\incrypter\obj\Debug\incrypter.csprojAssemblyReference.cache
+C:\Users\Alexander Olsen\Desktop\repo\random_enigmav2.0\incrypter\incrypter\obj\Debug\incrypter.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Olsen\Desktop\repo\random_enigmav2.0\incrypter\incrypter\obj\Debug\incrypter.exe
+C:\Users\Alexander Olsen\Desktop\repo\random_enigmav2.0\incrypter\incrypter\obj\Debug\incrypter.pdb
