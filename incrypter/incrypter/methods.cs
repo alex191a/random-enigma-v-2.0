@@ -10,7 +10,6 @@ namespace incrypter
     class methods
     {
         public static void inhold()
-        public static void inhold()
         {
             Console.WriteLine("Hvor vil du gerne have filen gemt?\n Her kommer et exempel på hvordan det skal stå: \n c:\\temp\\MyTest.txt ");
         }
